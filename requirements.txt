@@ -16,3 +16,4 @@ tf-quant-finance
 backtrader
 wandb
 tensorboard
+stable-baselines3
